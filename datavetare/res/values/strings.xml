@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">datavetare</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="donald_knuth">Donald Knuth</string>
+    <string name="donald_alt_image">Photo of Donald Knuth</string>
+    <string name="knuthbio">Donald Ervin Knuth (born January 10, 1938) is an American computer scientist, mathematician, and Professor Emeritus at Stanford University.
+        	He is the author of the multi-volume work "The Art of Computer Programming". 
+        	Knuth has been called the \"father\" of the analysis of algorithms. He contributed to the development of the rigorous analysis of the computational complexity of algorithms and systematized formal mathematical techniques for it. In the process he also popularized the asymptotic notation. 
+        	In addition to fundamental contributions in several branches of theoretical computer science, Knuth is the creator of the TeX computer typesetting system, the related METAFONT font definition language and rendering system, and the Computer Modern family of typefaces.</string>
+	<string name="dennis_ritchie">Dennis Ritchie</string>
+	   <string name="dennis_alt_image">Photo of Dennis Ritchie</string>
+	<string name="ritchiebio">Dennis MacAlistair Ritchie (September 9, 1941 – October 12, 2011) was an American computer scientist who "helped shape the digital era."
+	    	 He created the C programming language and, with long-time colleague Ken Thompson, the Unix operating system. 
+	    	Ritchie and Thompson received the Turing Award from the ACM in 1983, the Hamming Medal from the IEEE in 1990 and the National Medal of Technology from President Clinton in 1999. Ritchie was the head of Lucent Technologies System Software Research Department when he retired in 2007. 
+	    	</string>
+    
+</resources>
