@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Squash the SQUARE</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="rule01">Click on the square to score</string>
+    <string name="rule02">Score 60 in 60 seconds to win</string>
+	<string name="clickmetxt">Click Me</string>
+	<string name="scoreLabel">current score is:</string>
+	<string name="start">START</string>
+</resources>
